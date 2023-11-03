@@ -1,0 +1,6 @@
+user
+root
+user1
+admin
+administrador
+etc
